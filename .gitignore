@@ -3,3 +3,4 @@ dist/
 .env
 *.pptx
 .DS_Store
+.claude/
